@@ -2,7 +2,7 @@
 
 A production-ready REST API built with Spring Boot for managing logistics orders with strict lifecycle enforcement, duplicate prevention, and full audit history.
 
-🔗 **Live API:** https://your-render-url.onrender.com/swagger-ui.html
+## Project not live
 
 ---
 
