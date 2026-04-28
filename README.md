@@ -51,16 +51,4 @@ docker-compose up --build
 
 ---
 
-## 📋 API Endpoints
-
-| Method | Endpoint | Description |
-|---|---|---|
-| POST | `/api/v1/orders` | Create a new order |
-| GET | `/api/v1/orders` | List all orders |
-| GET | `/api/v1/orders?status=CREATED` | Filter orders by status |
-| GET | `/api/v1/orders/{id}` | Get order by ID |
-| PATCH | `/api/v1/orders/{id}/status` | Update order status |
-
----
-
-## 🔄 Order Status Lifecycle
+### More information located in readme file inside the folder.
